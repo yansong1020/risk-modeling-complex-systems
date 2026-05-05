@@ -101,7 +101,7 @@ Radiation risk on the lunar surface is not defined by average exposure.
 👉 It is shaped by the coexistence of:
 
 - **Continuous background risk (GCR)**  
-- **Low-probability, high-consequence events (SEP)**  
+- **Intermittent, potentially dose-dominant events (SEP), spanning moderate to extreme scenarios**  
 
 This fundamentally shifts radiation from an environmental factor  
 to a **primary architectural constraint** in mission design.
