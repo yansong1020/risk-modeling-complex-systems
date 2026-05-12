@@ -12,7 +12,7 @@ Unlike LEO, the lunar surface has:
 - No atmospheric shielding  
 - No geomagnetic protection  
 
-👉 Radiation exposure is fully determined by interplanetary conditions.
+Radiation exposure is fully determined by interplanetary conditions.
 
 Two components dominate:
 
@@ -74,7 +74,7 @@ The lunar radiation environment exhibits a **dual-risk structure**:
 - Very low probability  
 - Not reflected in expected value alone  
 
-👉 Extreme SEP events do not dominate expected dose,  
+Extreme SEP events do not dominate expected dose,  
 but they **define the worst-case exposure scenario**.
 
 ---
@@ -90,7 +90,7 @@ Unlike LEO, where operational response plays a major role, lunar missions rely h
   - Continuous GCR exposure  
   - Rare but severe SEP events  
 
-👉 Radiation risk must be treated as both a **baseline design constraint** and a **contingency-driven requirement**.
+Radiation risk must be treated as both a **baseline design constraint** and a **contingency-driven requirement**.
 
 ---
 
@@ -98,7 +98,7 @@ Unlike LEO, where operational response plays a major role, lunar missions rely h
 
 Radiation risk on the lunar surface is not defined by average exposure.
 
-👉 It is shaped by the coexistence of:
+It is shaped by the coexistence of:
 
 - **Continuous background risk (GCR)**  
 - **Intermittent, potentially dose-dominant events (SEP), spanning moderate to extreme scenarios**  
