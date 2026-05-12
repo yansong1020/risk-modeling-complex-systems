@@ -70,4 +70,4 @@ Embedding these capabilities early enables **real-time, metric-driven decision-m
 
 Radiation risk in LEO is not purely cumulative.
 
-👉 Short-duration events can materially alter mission exposure and must be treated as **operationally actionable hazards**, not just environmental background.
+Short-duration events can materially alter mission exposure and must be treated as **operationally actionable hazards**, not just environmental background.
