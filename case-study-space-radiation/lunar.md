@@ -25,12 +25,10 @@ Two components dominate:
 
 This study applies a probabilistic risk assessment (PRA) framework to evaluate both continuous and event-driven exposure.
 
-- GCR exposure modeled using :contentReference[oaicite:0]{index=0} (Badhwar–O’Neill 2020 model)  
+- GCR exposure modeled using :OLTARIS (Badhwar–O’Neill 2020 model)  
 - Habitat shielding: 10 g/cm² aluminum equivalent  
-- SEP events modeled using long-term F₃₀ statistics (Usoskin & Kovaltsov, 2012)  
+- SEP events modeled using long-term F₃₀ statistics (Usoskin & Kovaltsov, 2012) as input parameters to OLTARIS SEP events model
 - Event occurrence modeled as a Poisson process over a 14-day mission  
-
-Representative extreme SEP event classes are defined using historical fluence levels.
 
 ---
 
