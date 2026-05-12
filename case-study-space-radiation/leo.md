@@ -15,7 +15,7 @@ Evaluate radiation exposure for a 5-day crewed mission in Low Earth Orbit (LEO) 
 
 ## Approach
 
-The baseline radiation environment was modeled using :contentReference[oaicite:0]{index=0}, accounting for:
+The baseline radiation environment was modeled using OLTARIS, accounting for:
 
 - Galactic Cosmic Rays (GCR) using the Badhwar–O’Neill 2020 model  
 - Trapped protons using the AP9 model  
@@ -45,11 +45,11 @@ SEP event contribution:
 
 The results show that SEP events are not dominant under nominal conditions but can **significantly increase cumulative exposure over short durations**.
 
-👉 A single strong SEP event can increase total mission dose by ~24%.
+A single strong SEP event can increase total mission dose by ~24%.
 
 More severe events would result in substantially higher short-term exposure.
 
-👉 This establishes SEP as a **time-critical hazard**, rather than a background risk.
+his establishes SEP as a **time-critical hazard**, rather than a background risk.
 
 ---
 
@@ -62,7 +62,7 @@ In LEO missions, orbital parameters are largely fixed. Radiation risk mitigation
 - Integrate continuous radiation monitoring with space weather data  
 - Define operational thresholds based on dose rate and cumulative exposure  
 
-👉 Embedding these capabilities early enables **real-time, metric-driven decision-making** during elevated radiation conditions.
+Embedding these capabilities early enables **real-time, metric-driven decision-making** during elevated radiation conditions.
 
 ---
 
