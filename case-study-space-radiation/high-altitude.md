@@ -61,4 +61,4 @@ The PRA results suggest that radiation risk should not be managed using uniform 
 - Apply localized shielding in critical areas rather than across the entire structure  
 - Establish operational procedures for crew relocation during in-flight events  
 
-👉 This demonstrates how probabilistic risk modeling can directly inform architectural and operational decisions.
+ This demonstrates how probabilistic risk modeling can directly inform architectural and operational decisions.
